@@ -224,7 +224,7 @@ export default function UpdateProduct () {
                                             className="mt-3 mr-2"
                                             key={e}
                                             src={e}
-                                            alt={`Image Preview`}
+                                            alt=''
                                             width="55"
                                             height="52"
                                         />

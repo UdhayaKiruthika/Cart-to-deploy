@@ -174,7 +174,7 @@ export default function NewProduct(){
                     {imagesPreview.map(image=>(<img className="mt-3 mr-2"
                                                  key={image}
                                                  src={image}
-                                                 //alt={'Image Preview'}
+                                                 alt=''
                                                  width="55"
                                                  height="52"
                                                  />
