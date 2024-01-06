@@ -71,7 +71,7 @@ export default function ProductDetail(){
         }
        
            
-    },[dispatch,id,isReviewSubmitted,error])
+    },[dispatch,id,isReviewSubmitted,error,product._id])
     
     return(
         <Fragment>
